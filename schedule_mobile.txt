@@ -1,0 +1,17 @@
+   
+   
+   
+   HOẠT ĐỘNG TEAM MOBILE 
+   
+ - Hoạt động định kì: họp team 1 tháng (2 lần): nắm bắt tâm tự nguyện vọng của members ( về dự án, vấn đề cá nhân,...)
+ - Hoạt động đào tạo: định hướng phát triển flutter song song với native
+   + Tổ chức seminar: giao chỉ tiêu bắt buộc với các members ( ít nhất mỗi members 2 buổi) - đã có 1 tài liệu giờ cần làm lại
+   + Tổ chức code dự án demo: bắt buộc join với các level từ junior đổ xuống 
+   + Khuyến khích tìm hiểu và thi các chứng chỉ liên quan đến lập trình flutter
+   + Đào tạo về git flow
+
+ - Hoạt động về gắn kết team: 2,3 tháng đi nhậu,...( kinh phí trước hết xin công ty, nếu không được thì bỏ tiền túi) 
+ 
+ Long: animation 
+ Chiến: đăng kí số thứ 3 
+ 
